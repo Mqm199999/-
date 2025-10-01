@@ -1,5 +1,0 @@
-telebot
-aiogram
-flask
-python-telegram-bot
-python-telegram-bot
